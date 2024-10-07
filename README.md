@@ -1,16 +1,20 @@
-## Hi there 👋
+# 👋 Hi, I'm Samuel Bumbar!
 
-<!--
-**samibumbar/samibumbar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Aspiring Web Developer** | 💻 **HTML, CSS, JavaScript, React Enthusiast**  
+🌱 Always learning new things, currently diving deep into **React Native** and **Node.js**  
+🛠️ Passionate about building **mobile-friendly** and **accessible** web apps!
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 What I work with:
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React
+- 📱 **Mobile**: React Native
+- ⚙️ **Backend**: Node.js, Express
+- 🖥️ **Databases**: SQL, NoSQL
+
+---
+
+### ⚡ Fun Facts:
+- 🤓 I love writing **clean code** and exploring the latest web tech.
+- 🏃‍♂️ Currently training for a **50k ultra marathon** (yes, I love challenges)!
+- 🛠 Previously led a team in the oil industry, now solving problems through **code**!
