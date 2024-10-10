@@ -7,14 +7,12 @@
 ---
 
 ### 🛠 What I work with:
-- 🌐 **Frontend**: HTML, CSS, JavaScript, React
+- 🌐 **Frontend**: HTML, CSS, JavaScript, React, TypeScript
 - 📱 **Mobile**: React Native
-- ⚙️ **Backend**: Node.js, Express
+- ⚙️ **Backend**: Node.js, Express, Bun
 - 🖥️ **Databases**: SQL, NoSQL
 
 ---
 
 ### ⚡ Fun Facts:
 - 🤓 I love writing **clean code** and exploring the latest web tech.
-- 🏃‍♂️ Currently training for a **50k ultra marathon** (yes, I love challenges)!
-- 🛠 Previously led a team in the oil industry, now solving problems through **code**!
