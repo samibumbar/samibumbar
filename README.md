@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Samuel Bumbar!
 
-🚀 **Aspiring Web Developer** | 💻 **HTML, CSS, JavaScript, React Enthusiast**  
+🚀 **Aspiring Web Developer** | 💻 **HTML, CSS, JavaScript, React, typeScript Enthusiast**  
 🌱 Always learning new things, currently diving deep into **React Native** and **Node.js**  
 🛠️ Passionate about building **mobile-friendly** and **accessible** web apps!
 
